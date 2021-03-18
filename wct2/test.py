@@ -1,7 +1,7 @@
 from wct2.transfer import WCT2
 import torch
 from torchvision.utils import save_image
-from wct2.utils.io import open_image
+from wct2.io import open_image
 import numpy as np
 cpu_flag = False
 device = 'cpu' if cpu_flag or not torch.cuda.is_available() else 'cuda:0'
