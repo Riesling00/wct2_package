@@ -9,7 +9,7 @@ conda activate wct2
 pip install --upgrade setuptools
 ```
 
-downloading
+Downloading
 ```bash
 git clone https://github.com/Riesling00/wct2.git
 cd wct2-main
