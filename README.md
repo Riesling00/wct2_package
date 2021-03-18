@@ -1,5 +1,6 @@
 # wct2
 Photorealistic Style Transfer via Wavelet Transforms
+We give a package of WCT2 for showing the effects of style transfer.
 
 
 ```bash
