@@ -12,7 +12,7 @@ pip install --upgrade setuptools
 Downloading
 ```bash
 git clone https://github.com/Riesling00/wct2.git
-cd wct2-main
+cd wct2
 pip install .
 ```
 
