@@ -4,6 +4,7 @@ Photorealistic Style Transfer via Wavelet Transforms
 
 ```bash
 conda create -n wct2 python=3.6
+conda activate wct2
 pip install --upgrade setuptools
 ```
 
@@ -17,4 +18,5 @@ pip install .
 
 Example
 ```bash
+cd wct2
 python test.py
